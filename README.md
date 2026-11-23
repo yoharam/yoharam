@@ -27,7 +27,7 @@ Construyo aplicaciones web, APIs y herramientas de automatización, combinando f
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Aether CLI</h3>
+      <h3> Aether CLI</h3>
       <p>Herramienta de terminal en Python para consultar información del sistema y realizar tareas básicas de monitoreo y optimización.</p>
       <a href="https://github.com/yoharam/Aether-Herramienta-Linux">Repositorio</a> · <a href="https://pypi.org/project/aether-linux/">PyPI</a>
     </td>
