@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Yoharam 👋
 
-<!--
-**yoharam/yoharam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Full Stack | TypeScript · Go · JavaScript · Python
 
-Here are some ideas to get you started:
+Construyo aplicaciones web, APIs y herramientas de automatización. He trabajado en frontend, backend, bases de datos, infraestructura y proyectos de cómputo e imagen médica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías con las que trabajo
+
+- **Lenguajes:** TypeScript, Go, JavaScript, Python, SQL
+- **Frontend:** React, Next.js, HTML, CSS
+- **Backend y APIs:** Node.js, NestJS, FastAPI, REST
+- **Datos:** PostgreSQL, MySQL, Prisma
+- **Infraestructura y calidad:** Docker, Linux, Git, CI/CD, Playwright
+- **Cómputo e imagen médica:** PyTorch, MONAI, CUDA
+
+## Proyecto destacado
+
+### [Aether CLI](https://github.com/yoharam/aether)
+
+Herramienta de terminal en Python para consultar información del sistema y realizar tareas básicas de monitoreo y optimización. [Disponible en PyPI](https://pypi.org/project/aether-linux/).
