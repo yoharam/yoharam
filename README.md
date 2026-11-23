@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Yoharam 👋
+# Hola, soy Yoharam
 
 ### Desarrollador Full Stack
 
