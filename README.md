@@ -32,7 +32,7 @@ Construyo aplicaciones web, APIs y herramientas de automatización, combinando f
       <a href="https://github.com/yoharam/Aether-Herramienta-Linux">Repositorio</a> · <a href="https://pypi.org/project/aether-linux/">PyPI</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 Sistemas institucionales · ISSSTE</h3>
+      <h3> Sistemas institucionales · ISSSTE</h3>
       <p>Desarrollo de soluciones web para procesos institucionales. Los repositorios relacionados se mantienen privados.</p>
     </td>
   </tr>
